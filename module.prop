@@ -1,7 +1,9 @@
-id=template
-name=Template Module
+id=AdobtableStorageEnabler
+name=Adobtable Storage Enabler Magisk Module
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=SkilletDesire
+description=Force enable adobtable storage where kernel and sm support have been disabled.
 template=3
+support=https://forum.xda-developers.com/member.php?u=2965949
+donate=PayPal highboosten@gmail.com
